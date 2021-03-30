@@ -18,6 +18,7 @@
     <FileEntry Name="City.dat" Filter="2" />
     <FileEntry Name="SeatPref.dat" Filter="2" />
     <FileEntry Name="SeatType.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="combined_MeshcheryakovZadanie2.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
