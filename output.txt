@@ -1,0 +1,3 @@
+vuser_end.c(5): Price first ticket = 462
+vuser_end.c(8): Number of ticket 1 class= 8
+Vuser Terminated.
